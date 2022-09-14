@@ -5,3 +5,6 @@ public class Main {
         System.out.println("Hello world!");
     }
 }
+
+//git archive --format zip --output master.zip master
+
